@@ -1,2 +1,2 @@
 # assets-libresprite
-pixel art assets characters an weapon
+pixel art assets characters and weapon
